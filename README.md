@@ -4,12 +4,6 @@
 
 如果需求iOS 小火箭 QX兑换码  国家账户 来熊哥小铺 ：https://xintaikeji.cf/
 
-Image
-
-Sideloadly
-
-
-
 Sideloadly 主要特点：
 
 无需越狱，就可以使用。
@@ -124,7 +118,7 @@ iOS 10 及以上系统，个人 Apple ID 帐户，同时在设备上签名安装
 
 首先，我们需要在 Sideloadly 官方网站下载工具。包含Windows、MacOS 版本，请根据自己的系统选择版本。
 
-
+订阅熊哥分享 谢谢您 群里有老司机文件： https://t.me/xgfxl_ios
 
 Sideloadly 官方下载：
 
